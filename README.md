@@ -3,7 +3,7 @@
 ## ✅ 1. MySQL 데이터베이스 복원
 
 - 이 프로젝트에는 `user_db` 관련 SQL 덤프 파일들이 포함되어 있습니다.
-- 아래 `.sql` 파일들을 MySQL에 import 해주세요:
+- 아래 `.sql` 파일들을 MySQL에 import 해주세요: <ueers 과 post는 필수가 아닙니다.>
   - `user_db_users.sql`
   - `user_db_spot_image.sql`
   - `user_db_post.sql`
@@ -17,7 +17,7 @@
 5. `Start Import` 클릭
 
 또는 커맨드라인에서:
-```bash
+bash
 mysql -u root -p user_db < user_db_users.sql
 
 ## ✅ 2. 서버 URL 및 Gateway URL 설정
