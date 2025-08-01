@@ -25,6 +25,7 @@ mysql -u root -p user_db < user_db_users.sql
 서비스가 서로 통신하기 위해 다음 두 가지 환경변수를 반드시 설정해야 합니다:
 
 ---
+[결과물_22012231_김동하.pdf](https://github.com/user-attachments/files/21539722/_22012231_.pdf)
 
 ### 🔗 GATEWAY_URL (API Gateway 주소)
 
